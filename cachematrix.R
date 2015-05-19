@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Assignment 2 for Coursera R Programming Course
+##  Helper functions for solving and cacheing the inverse of a matrix
 
 ## Recieves as input a matrix
 ## Returns a list of functions that set/get the cached matrix and
